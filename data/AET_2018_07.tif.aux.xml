@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>wy2018</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">11.890957832336</MDI>
+      <MDI key="STATISTICS_MEAN">3.1777234265169</MDI>
+      <MDI key="STATISTICS_STDDEV">1.6365132791103</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">54.81</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
